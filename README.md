@@ -1,4 +1,4 @@
-#dzhanibekovEffect 
+# dzhanibekovEffect 
 Support material for ["A Deep Dive into the Tennis Racket Paradox: Analysis and Numerical Simulations of the Intermediate Axis Theorem".](https://www.google.com/)
 
 DOI.............
