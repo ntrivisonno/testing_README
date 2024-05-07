@@ -1,11 +1,11 @@
 # testing_README
-Support material for [A Deep Dive into the Tennis Racket Paradox: Analysis and Numerical Simulations of the Intermediate Axis Theorem.](www.google.com)
+Support material for [A Deep Dive into the Tennis Racket Paradox: Analysis and Numerical Simulations of the Intermediate Axis Theorem.](https://www.google.com/)
 
 
 
 ## Creating a Python virtual enviroment to run the scripts
 
-If you have 'virtualenv' installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
+If you have `virtualenv` 'virtualenv' installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
 
 Also the repository provides a 'virtualenv_requirements.txt' file to facilitate the installation of the dependencies.
 
