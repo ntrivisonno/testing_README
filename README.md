@@ -1,21 +1,23 @@
-# testing_README
-Support material for [A Deep Dive into the Tennis Racket Paradox: Analysis and Numerical Simulations of the Intermediate Axis Theorem.](https://www.google.com/)
+#dzhanibekovEffect 
+Support material for ["A Deep Dive into the Tennis Racket Paradox: Analysis and Numerical Simulations of the Intermediate Axis Theorem".](https://www.google.com/)
 
-
+DOI.............
 
 ## Creating a Python virtual enviroment to run the scripts
 
 If you have `virtualenv` installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
 
-Also the repository provides a `virtualenv_requirements.txt` file to facilitate the installation of the dependencies.
+Also the repository provides a `requirements.txt` file to facilitate the installation of the dependencies.
+
+First, you need to create a directory to contain your virtual environments and then create one for this project:
 
 ```
 ~$ mkdir virtualenvs
-~$cd virtualenvs
+~$ cd virtualenvs
 ~/virtualenvs$ virtualenv --python=python2.7 dzhanibekovEffect
 ```
 
-The virtual enviroment is created using `python2.7` which is the version of python neccesary for runnnign the scripts.
+Note that the virtual enviroment is created using `python2.7` ensuaring the compatibility with the scripts.
 
 Once the virtual enviroment is created, it needs to be activated:
 
@@ -25,7 +27,7 @@ The name of the current virtual environment will now appear on the left of the p
 
 We need to make sure that the pip version contained in the virtual environment is up to date
 
-`$ pip install -U pip`
+`$ pip install -u pip`
 
 Now download the file `requirements.txt` and the `*.py` scripts and place them in the current folder. Then, we can install the required dependencies:
 
