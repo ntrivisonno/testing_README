@@ -5,14 +5,15 @@ Support material for [A Deep Dive into the Tennis Racket Paradox: Analysis and N
 
 ## Creating a Python virtual enviroment to run the scripts
 
-If you have `virtualenv' installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
+If you have 'virtualenv' installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
 
-Also the repository provides a `virtualenv_requirements.txt' file to facilitate the installation of the dependencies.
+Also the repository provides a 'virtualenv_requirements.txt' file to facilitate the installation of the dependencies.
 
-`~$ mkdir virtualenvs
- ~$cd virtualenvs
- ~/virtualenvs$ virtualenv --python=python2.7 dzhanibekovEffect'
-
+'''
+~$ mkdir virtualenvs
+~$cd virtualenvs
+~/virtualenvs$ virtualenv --python=python2.7 dzhanibekovEffect
+'''
 
 The virtual enviroment is created using `python2.7' which is the version of python neccesary for runnnign the scripts.
 
