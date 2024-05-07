@@ -7,7 +7,7 @@ DOI.............
 
 If you have `virtualenv` installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
 
-En caso de no tener el paquete de `virtualenv` instalado, descargarlo siguiendo 
+En caso de no tener el paquete de `virtualenv` instalado, y/o tampoco la versión de `python` necesaria para que exista compatibilidad, seguir los pasos detallados en [Installing Python and virtualenv](https://github.com/ntrivisonno/testing_README/tree/main?tab=readme-ov-file#installing-python-and-virtualenv-libraries-python27-not-installed-in-your-system)
 
 Also the repository provides a `requirements.txt` file to facilitate the installation of the dependencies.
 
@@ -49,6 +49,6 @@ Now running python will just use the system’s default Python interpreter, whic
 
 To delete a virtual environment, just delete the corresponding folder. (In this case, it would be `~$rm -r dzhanibekovEffect`).
 
-## Installing Python packaged and virtualenv libraries _Python2.7 not installed in the system_
+## Installing Python and virtualenv libraries _Python2.7 not installed in the system_
 
-This instructions are if you don't have `python2.7` installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show un _Creating a Python virtual enviroment_ [Creating a Python virtual enviroment](https://github.com/ntrivisonno/testing_README/tree/main?tab=readme-ov-file#creating-a-python-virtual-enviroment-to-run-the-scripts-python27-already-installed-on-your-system)
+This instructions are if you don't have `python2.7` installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show in [Creating a Python virtual enviroment](https://github.com/ntrivisonno/testing_README/tree/main?tab=readme-ov-file#creating-a-python-virtual-enviroment-to-run-the-scripts-python27-already-installed-on-your-system)
