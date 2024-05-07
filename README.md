@@ -49,6 +49,6 @@ Now running python will just use the system’s default Python interpreter, whic
 
 To delete a virtual environment, just delete the corresponding folder. (In this case, it would be `~$rm -r dzhanibekovEffect`).
 
-## Installing Python and virtualenv libraries _Python2.7 not installed in the system_
+## Installing Python and virtualenv libraries _Python2.7 not installed in your system_
 
 This instructions are if you don't have `python2.7` installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show in [Creating a Python virtual enviroment](https://github.com/ntrivisonno/testing_README/tree/main?tab=readme-ov-file#creating-a-python-virtual-enviroment-to-run-the-scripts-python27-already-installed-on-your-system)
