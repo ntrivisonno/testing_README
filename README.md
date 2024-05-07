@@ -51,4 +51,4 @@ To delete a virtual environment, just delete the corresponding folder. (In this 
 
 ## Installing Python packaged and virtualenv libraries _Python2.7 not installed in the system_
 
-This instractions are if you don't have `python2.7' installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show un _Creating a Python virtual enviroment_
+This instructions are if you don't have `python2.7` installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show un _Creating a Python virtual enviroment_
