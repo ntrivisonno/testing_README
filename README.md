@@ -3,9 +3,11 @@ Support material for ["A Deep Dive into the Tennis Racket Paradox: Analysis and 
 
 DOI.............
 
-## Creating a Python virtual enviroment to run the scripts
+## Creating a Python virtual enviroment to run the scripts _python2.7 aready installed on system_
 
 If you have `virtualenv` installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
+
+En caso de no tener el paquete de `virtualenv` instalado, descargarlo siguiendo 
 
 Also the repository provides a `requirements.txt` file to facilitate the installation of the dependencies.
 
@@ -46,3 +48,7 @@ Once you are done working in the virtual environment for the moment, you can dea
 Now running python will just use the system’s default Python interpreter, which is not modified by anything done while being inside the virtual environment.
 
 To delete a virtual environment, just delete the corresponding folder. (In this case, it would be `~$rm -r dzhanibekovEffect`).
+
+## Installing Python packaged and virtualenv libraries _Python2.7 not installed in the system_
+
+This instractions are if you don't have `python2.7' installed on the system, so first you have to download `python2.7` package, followed by the `virtualenv` library and then continue with the step show un _Creating a Python virtual enviroment_
