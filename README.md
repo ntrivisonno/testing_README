@@ -5,7 +5,7 @@ DOI.............
 
 ## Creating a Python virtual enviroment to run the scripts
 _python2.7 already installed on your system_
-###python2.7 already installed on your system
+### python2.7 already installed on your system
 
 If you have `virtualenv` installed, you can configure an isoleted Python enviroment to run the scripts of the repository.
 
